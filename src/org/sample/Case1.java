@@ -15,8 +15,13 @@ public class Case1 {
            System.out.println("Pithon");
 	}
 	
+	private void method4() {
+          System.out.println("selenium");
+	}
 	
-	
+	private void method5() {
+       System.out.println("testing");
+	}
 	
 	
 	
